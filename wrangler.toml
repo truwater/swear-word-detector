@@ -1,0 +1,7 @@
+name = "swear-word-detector"
+main = "src/index.ts"
+compatibility_date = "2023-02-23"
+node_compat = true
+
+[vars]
+CHATGPT_API_KEY = "MY_CHATGPT_API_KEY"
